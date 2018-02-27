@@ -1,1 +1,5 @@
-import randomtests
+from randomtests import abc
+
+abc.a()
+
+
